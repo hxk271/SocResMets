@@ -13,9 +13,9 @@
 
 ## 제1주차(사회조사방법론의 소개)
 
--  [**A섹션: 강의 소개**](https://github.com/hxk271/SocResMets/blob/main/Beamer______W1A.pdf)
+-  [**A섹션: 강의 소개**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W01A.pdf)
 
--  [**B섹션: 사회조사방법론 입문**](https://github.com/hxk271/SocResMets/blob/main/Beamer______W1B.pdf)
+-  [**B섹션: 사회조사방법론 입문**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W01B.pdf)
 
 <br/>
 
