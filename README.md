@@ -22,3 +22,5 @@
 ## 제2주차(과학적 조사의 방법)
 
 -  [한국사회학회 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KSAResearchEthics.pdf)
+
+-  [『한국사회학』 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KJSAResearchEthics.pdf)
