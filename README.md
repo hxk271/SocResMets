@@ -16,3 +16,9 @@
 -  [**A섹션: 강의 소개**](https://github.com/hxk271/SocResMets/blob/main/Beamer______W1A.pdf)
 
 -  [**B섹션: 사회조사방법론 입문**](https://github.com/hxk271/SocResMets/blob/main/Beamer______W1B.pdf)
+
+<br/>
+
+## 제2주차(과학적 조사의 방법)
+
+-  [한국사회학회 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KSAResearchEthics.pdf)
