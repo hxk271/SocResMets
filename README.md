@@ -19,7 +19,11 @@
 
 <br/>
 
-## 제2주차(과학적 조사의 방법)
+## 제2주차(과학적 조사의 방법과 윤리)
+
+-  [**A섹션: 과학적 조사의 방법과 윤리(I)**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W01A.pdf)
+
+-  [**B섹션:  과학적 조사의 방법과 윤리(II)**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W01B.pdf)
 
 -  [한국사회학회 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KSAResearchEthics.pdf)
 
