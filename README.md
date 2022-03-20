@@ -17,6 +17,7 @@
 
 -  [**B섹션: 사회조사방법론 입문**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W01B.pdf)
 
+
 <br/>
 
 ## 제2주차(과학적 조사의 방법과 윤리)
@@ -29,14 +30,11 @@
 
 -  [『한국사회학』 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KJSAResearchEthics.pdf)
 
+
 <br/>
 
 ## 제3주차(사회조사의 기본 요소)
 
--  [**A섹션: 패러다임**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W02A.pdf)
+-  [**A섹션: 패러다임**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W03A.pdf)
 
--  [**B섹션: 논리체계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W02B.pdf)
-
--  [한국사회학회 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KSAResearchEthics.pdf)
-
--  [『한국사회학』 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KJSAResearchEthics.pdf)
+-  [**B섹션: 논리체계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W03B.pdf)
