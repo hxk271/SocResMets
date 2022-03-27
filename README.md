@@ -26,10 +26,6 @@
 
 -  [**B섹션: 과학적 조사의 방법과 윤리(II)**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W02B.pdf)
 
--  [한국사회학회 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KSAResearchEthics.pdf)
-
--  [『한국사회학』 연구윤리 강령](https://github.com/hxk271/SocResMets/blob/main/KJSAResearchEthics.pdf)
-
 
 <br/>
 
@@ -38,3 +34,12 @@
 -  [**A섹션: 패러다임**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W03A.pdf)
 
 -  [**B섹션: 논리체계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W03B.pdf)
+
+
+<br/>
+
+## 제4주차(조사설계와 실험설계)
+
+-  [**A섹션: 조사설계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W04A.pdf)
+
+-  [**B섹션: 실험설계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W04B.pdf)
