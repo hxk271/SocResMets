@@ -51,4 +51,4 @@
 
 -  [**A섹션: 측정과 척도 그리고 오차**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W05A.pdf)
 
--  [참고자료: 사회통계연습(Reliability)](https://github.com/hxk271/SocResMets/blob/main/Beamer___________W12A.pdf)
+-  [참고자료: 사회통계연습(Reliability)](https://github.com/hxk271/SocResMets/blob/main/Beamer________W12A.pdf)
