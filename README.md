@@ -52,3 +52,12 @@
 -  [**A섹션: 측정과 척도 그리고 오차**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W05A.pdf)
 
 -  [참고자료: 사회통계연습(Reliability)](https://github.com/hxk271/SocResMets/blob/main/Beamer________W12A.pdf)
+
+
+<br/>
+
+## 제6주차(설문지 작성)
+
+-  [**A섹션: 설문지 작성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W05A.pdf)
+
+-  [**B섹션: 사례연구**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W05B.pdf)
