@@ -61,3 +61,17 @@
 -  [**A섹션: 설문지 작성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W06A.pdf)
 
 -  [**B섹션: 사례연구**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W06B.pdf)
+
+
+<br/>
+
+## 제7주차(중간시험)
+
+
+<br/>
+
+## 제8주차(표본 추출과 총조사오차)
+
+-  [**A섹션: 확률표집과 비확률표집**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W08A.pdf)
+
+-  [**B섹션: 실제 표집과정과 총조사오차**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W08B.pdf)
