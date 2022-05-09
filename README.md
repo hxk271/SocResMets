@@ -77,11 +77,19 @@
 -  [**B섹션: 실제 표집과정과 총조사오차**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W08B.pdf)
 
 
-
 <br/>
 
 ## 제9주차(연구 문제와 가설 형성)
 
 -  [**A섹션: 연구 문제와 가설 형성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W09A.pdf)
+
+-  [**B섹션: 사례연구**]
+
+
+<br/>
+
+## 제10주차(자료 수집 혹은 2차 자료 활용)
+
+-  [**A섹션: 자료 수집 혹은 2차 자료 활용**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W10A.pdf)
 
 -  [**B섹션: 사례연구**]
