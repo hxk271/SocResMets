@@ -93,3 +93,12 @@
 -  [**A섹션: 자료 수집 혹은 2차 자료 활용**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W10A.pdf)
 
 -  [**B섹션: 사례연구**]
+
+
+<br/>
+
+## 제11주차(연구방법론 작성)
+
+-  [**A섹션: 연구방법론 작성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W11A.pdf)
+
+-  [**B섹션: 사례연구**]
