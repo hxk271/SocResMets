@@ -103,5 +103,5 @@
 
 -  [**B섹션: 사례연구**]
 
--  [참고자료: 사회통계연습(Mean Proportion Comparison)](https://github.com/hxk271/SocResMets/blob/main/Beamer________W09B.pdf)
+-  [참고자료: 사회통계연습(Mean/Proportion Comparison)](https://github.com/hxk271/SocResMets/blob/main/Beamer________W09B.pdf)
 
