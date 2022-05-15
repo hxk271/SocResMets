@@ -102,5 +102,6 @@
 -  [**A섹션: 연구방법론 작성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W11A.pdf)
 
 -  [**B섹션: 사례연구**]
--  [**B섹션: 사회통계연습: 평균 및 비율 비교**](https://github.com/hxk271/SocResMets/blob/main/Beamer________W09B.pdf)
+
+-  [참고자료: 사회통계연습(Mean Proportion Comparison)](https://github.com/hxk271/SocResMets/blob/main/Beamer________W09B.pdf)
 
