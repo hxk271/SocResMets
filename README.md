@@ -105,3 +105,11 @@
 
 -  [참고자료: 사회통계연습(Mean/Proportion Comparison)](https://github.com/hxk271/SocResMets/blob/main/Beamer________W09B.pdf)
 
+
+<br/>
+
+## 제12주차(자료 분석과 결과 해석)
+
+-  [**A섹션: 자료 분석과 결과 해석**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W12A.pdf)
+
+-  [**B섹션: 사례연구**]
