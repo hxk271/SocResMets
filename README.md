@@ -113,3 +113,12 @@
 -  [**A섹션: 자료 분석과 결과 해석**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W12A.pdf)
 
 -  [**B섹션: 사례연구**]
+
+
+<br/>
+
+## 제13주차(발견의 요약과 정리)
+
+-  [**A섹션: 발견의 요약과 정리**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W13A.pdf)
+
+-  [**B섹션: 사례연구**]
