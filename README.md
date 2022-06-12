@@ -122,3 +122,23 @@
 -  [**A섹션: 발견의 요약과 정리**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W13A.pdf)
 
 -  [**B섹션: 사례연구**]
+
+
+<br/>
+
+## 제14주차(서론 및 결론 작성)
+
+-  [**A섹션: 서론 및 결론 작성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_________W14A.pdf)
+
+-  [**B섹션: 사례연구**]
+
+
+<br/>
+
+## 제15주차(학생 발표)
+
+
+<br/>
+
+
+사랑하는 2022년 1학기 사회조사방법론 수강생 여러분, 한 학기동안 수고 많았습니다!
