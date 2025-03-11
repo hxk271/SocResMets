@@ -18,3 +18,10 @@
 -  [**B섹션: 사회조사방법론 입문**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W01B.pdf)
 
 
+<br/>
+
+## 제2주차 (사회조사의 기본 요소)
+
+-  [**A섹션: 논리적 설명**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W02A.pdf)
+
+-  [**B섹션: 사회적 규칙성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W02B.pdf)
