@@ -25,3 +25,12 @@
 -  [**A섹션: 논리적 설명**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W02A.pdf)
 
 -  [**B섹션: 사회적 규칙성**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W02B.pdf)
+
+
+<br/>
+
+## 제3주차 (주제 선정과 선행연구 고찰)
+
+-  [**A섹션: 연구 주제의 설정**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W03A.pdf)
+
+-  [**B섹션: 기존 문헌의 탐색**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W03B.pdf)
