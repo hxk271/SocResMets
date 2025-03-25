@@ -34,3 +34,12 @@
 -  [**A섹션: 연구 주제의 설정**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W03A.pdf)
 
 -  [**B섹션: 기존 문헌의 탐색**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W03B.pdf)
+
+
+<br/>
+
+## 제4주차 (연구 질문과 가설 설정)
+
+-  [**A섹션: 연구 질문의 구체화**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W04A.pdf)
+
+-  [**B섹션: 연구 모형과 가설의 제시**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W04B.pdf)
