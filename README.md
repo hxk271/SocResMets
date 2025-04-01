@@ -43,3 +43,14 @@
 -  [**A섹션: 연구 질문의 구체화**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W04A.pdf)
 
 -  [**B섹션: 연구 모형과 가설의 제시**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W04B.pdf)
+
+
+<br/>
+
+## 제5주차 (연구설계)
+
+-  [**A섹션: 연구설계에서 단위 문제**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W05A.pdf)
+
+-  [**B섹션: 실험설계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W05B.pdf)
+
+
