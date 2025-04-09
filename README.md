@@ -54,3 +54,11 @@
 -  [**B섹션: 실험설계**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W05B.pdf)
 
 
+<br/>
+
+## 제6주차 (자료수집 혹은 2차 자료 활용)
+
+-  [**B섹션: 사회조사를 위한 2차자료 (I)**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W06A.pdf)
+
+-  [**B섹션: 사회조사를 위한 2차자료 (II)**](https://github.com/hxk271/SocResMets/blob/main/Beamer_사회조사방법론_W06B.pdf)
+
